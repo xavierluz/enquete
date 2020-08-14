@@ -35,12 +35,12 @@
   ```
  #### Migration ####
  ##### Gerar script do banco de dados #####
- **Add-Migration -name "InitialEnquete"**
- **Script-Migration**
- **Copiar o script gerado**
+ 1. Add-Migration -name "InitialEnquete" 
+ 2. Script-Migration
+ 3. Copiar o script gerado
  
  #### Abrir MySQL Workbench ####
- **Colar o script**
- **executar o script**
+ 1. Colar o script
+ 2. executar o script**
  
  
