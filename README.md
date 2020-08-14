@@ -41,6 +41,6 @@
  
  #### Abrir MySQL Workbench ####
  1. Colar o script
- 2. executar o script**
+ 2. executar o script
  
  
