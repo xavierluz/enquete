@@ -1,2 +1,3 @@
 # enquete
-# h1 App de enquete
+# App de enquete #
+## Instação
