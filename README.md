@@ -2,5 +2,5 @@
 ## App de enquete ##
 ### Instação ###
 **Clone**
-* git clone https://github.com/xavierluz/enquete.git *
-* cd enquete *
+* git clone https://github.com/xavierluz/enquete.git 
+* cd enquete 
