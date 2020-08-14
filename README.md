@@ -7,6 +7,8 @@
 #### MySQL ####
 * Instalar o MySQL 8.0
 * Instalar MySQL Workbench
+* Abrir MySQL Workbench
+* Criar a database "appenquete"
 
 #### Visual Studio 2019 ####
 * Abrir o projeto app-enquete.sln
@@ -24,9 +26,9 @@
 
 #### Conexão com banco de dados MySQL ####
 **Criar Conexão 
-**_Adicionar no arquivo appsettings.jso_**
+**_Adicionar no arquivo appsettings.json_**
 ```
 "ConnectionStrings": {
-    "DefaultConnection": "server=localhost;user id=root;pwd=LuGO2012;persistsecurityinfo=True;database=appenquete;port=3306"
+    "DefaultConnection": "server=localhost;user id=usuario;pwd=senha;persistsecurityinfo=True;database=appenquete;port=3306"
   }
   ```
