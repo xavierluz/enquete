@@ -21,3 +21,10 @@
 **1. Install-Package Microsoft.EntityFrameworkCore.Tools -Version 3.1.6**
 ##### Microsoft.Extensions.Configuration.UserSecrets #####
 **1. Install-Package Microsoft.Extensions.Configuration.UserSecrets -Version 3.1.6**
+
+#### Conexão com banco de dados MySQL ####
+**Criar Conexão 
+**_Adicionar no arquivo appsettings.jso_**
+#####"ConnectionStrings": {
+    "DefaultConnection": "server=localhost;user id=root;pwd=LuGO2012;persistsecurityinfo=True;database=appenquete;port=3306"
+  }#####
