@@ -25,6 +25,8 @@
 #### Conexão com banco de dados MySQL ####
 **Criar Conexão 
 **_Adicionar no arquivo appsettings.jso_**
-#####"ConnectionStrings": {
+```
+"ConnectionStrings": {
     "DefaultConnection": "server=localhost;user id=root;pwd=LuGO2012;persistsecurityinfo=True;database=appenquete;port=3306"
-  }#####
+  }
+  ```
