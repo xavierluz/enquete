@@ -1,3 +1,3 @@
-# enquete
-# App de enquete #
-## Instação
+# Enquete #
+## App de enquete ##
+### Instação ###
